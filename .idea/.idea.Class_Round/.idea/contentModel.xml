@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\RiderProjects\х\Class_Round" t="IncludeFlat">
+      <e p="Class_Round" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class_Round.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Class_Round.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Round.cs" t="Include" />
+        <e p="RoundProvider.cs" t="Include" />
+      </e>
+      <e p="Class_Round.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Nataliya\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nataliya\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_Class_Round.-2013961814.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nataliya\AppData\Roaming\JetBrains\Rider2020.1\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Nataliya\AppData\Roaming\JetBrains\Rider2020.1\extensions" t="IncludeRecursive" />
+  </component>
+</project>
